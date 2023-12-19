@@ -45,7 +45,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 ## Version History
 
 *0.1 
-    * Initial Release
+    * Initial Release 
 
 ## License
 
